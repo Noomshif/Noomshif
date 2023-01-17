@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Noomshif
-- 👀 I’m interested in ... learning programming languages.
-- 🌱 I’m currently learning ... javascript
+- 👋 Hi, I’m Emily
+- 👀 I’m interested in ... learning programming languages and data analysis.
+- 🌱 I’m currently learning ... R and SQL
 - 💞️ I’m looking to collaborate on ... nothing at the moment. 
 - 📫 How to reach me ... I will have to let you know. 
 
